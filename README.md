@@ -97,7 +97,6 @@ All versions are stored and retrieved from ChromaDB to meet version control requ
 
 Watch the full project demo here:  
 [Demo Video Link](https://drive.google.com/file/d/1jKarlCSm4AkUTiGXCHXIQHeGri5DDGdP/view?usp=sharing)  
-*(Replace this link with your actual demo video link)*
 
 ---
 
