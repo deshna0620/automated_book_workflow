@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+pip-selfcheck.json
+
+# dotenv
+.env
+
+# Playwright browser cache
+playwright/.cache/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Gradio auto cache
+gradio_cached_examples/
